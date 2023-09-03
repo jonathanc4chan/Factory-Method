@@ -1,5 +1,5 @@
 # Factory-Method
-adjunnto se encuentra el diagrama UML
+adjunto se encuentra el diagrama UML
 
 1. SodaFactory: Esta es una clase abstracta que define el método createSoda(). Las subclases concretas de SodaFactory implementarán este método para crear instancias de Soda.
 
